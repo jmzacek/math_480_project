@@ -7,19 +7,19 @@
  * Explain why three simultaneous classes were chosen (in detail)
  * Explain the example of 3.6 (Davis)
  * Explain edge case of teacher assignment
- * Dr. Ostroff introduction
- * Explain 3-matching
+ * Dr. Ostroff introduction (Justin)
+ * Explain 3-matching (is this really what we want to do? looking at the definition of 3-matching it is actually not clear how our problem is supposed to be an example of one. for example, our sets of edges will share vertices because multiple students are assigned to one class - JZ)
  * Explain the variables used in end of 3.1 (page 3)
- * Reorganize / reimplement simplifications section
+ * Reorganize / reimplement simplifications section (Justin - let me know if you think more needs to be done; really not a ton to say about simplificiations, just need to make sure there aren't redundancies in the paper)
  * Clean up references section, put in Acknowledgements
-  * Mention in beginning of paper how our problem is different, more complex, and faster than 2015
+  * Mention in beginning of paper how our problem is different, more complex, and faster than 2015 (Justin)
  * Other notes from Peer Review (Ethan's in particular)
 * Explain why certain solving methods for GLPK work better than others.
  * Branching Pseudo-Cost Heuristic
  * Backtracking by best prediction heuristic
  * Cuts by mixed integer rounding
  * Are these parameters better in general for IP? For large scale problems? Or something more specific?
-* Implement changes from notes from Billey, disregarding erroneous comma placement
+* Implement changes from notes from Billey, disregarding erroneous comma placement (word)
 * Are we consistent with all terms?
  * Chaos Week vs. Week of Chaos vs. "Chaos Week" vs. "Week of Chaos"
  * IP vs. LP
@@ -28,9 +28,9 @@
  * Run the algorithm over multiple schedules to find an average solving speed
  * Identify what are potential problems in schedules that cause for longer solving times
  * About how long should we run it to get a better solution once a BFS is found?
- * Write a function to generate random data that would represent teacher preferences and student preferences
+ * Write a function to generate random data that would represent teacher preferences and student preferences (we made one of these; I still have it on my computer if it has been lost - JZ)
  * Create a table showing computation times and preference total achieved
- * Get a monopoly on Pokemon cards
+ * Get a monopoly on Pokemon cards (team effort)
 
 ###Notes:
 * I switched over the first draft file to second draft file, it's a WIP with some of the formulas filled in
